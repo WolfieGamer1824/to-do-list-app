@@ -10,4 +10,4 @@ Hi! I'm Santiago Martinez, a self-taught aspiring Full-Stack Developer. I'm lear
 ## How to Run
 1. Clone this repository
    ```bash
-git clone https://github.com/WolfieGamer1824/to-do-list-app.git
+git clone https://github.com/WolfieGamer1824/My-Mini-Proyects
